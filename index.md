@@ -1,6 +1,6 @@
-## kctirumurti.github.io
+# kctirumurti.github.io
 
 
-##Keshav Tirumurti
-##Computer Science
-##UC Davis Class of 2018
+## Keshav Tirumurti
+## Computer Science
+## UC Davis Class of 2018
