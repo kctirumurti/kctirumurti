@@ -49,3 +49,6 @@ In ECS 150 (Operating Systems), I worked on various system level programming pro
 * semaphores and thread memory region protection
 * a simple file system based on FAT, supporting up to 128 files in a single root directory
 
+### Software Engineering
+In ECS 160 (Software Engineering), I worked with a group of 10 other students to port the linux based game Warcraft 2 to a native OSX application - involving extensive collaboration, code reviews, and deep understanding of the source code. We also learned the Swift programming language and had to map specific C++ protocols to it, leveraging native mac graphics libraries for animation.
+
