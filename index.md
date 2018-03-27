@@ -21,4 +21,12 @@ In the summer of 2017, I worked at Fortanix, a startup specializing in runtime e
 * Coded sample programs that performed encryption and decryption operations with
 Fortanix’s SDK for product documentation
 
+### Tynker: Software Engineering and QA Intern (July 2015 - Sept 2016)
+I spent 2 summers at Tynker, working on their flagship products that taught children how to code.
+* Managed a group of four interns to develop JavaScript curriculum, games, and activities for
+first time programmers using the Tynker Library
+* Integrated API web services into the Tynker product, creating demos and documentation
+for web service features
+* Performed quality assurance on Tynker programming courses, drone, and
+device-integrated mobile products
 
