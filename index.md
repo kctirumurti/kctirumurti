@@ -32,3 +32,14 @@ device-integrated mobile products
 
 ## Research
 I'm currently working with Dr. Sam King, exploring the part that cryptography and computer vision play in securing credit card transactions on mobile devices.
+
+## Classwork/Projects
+
+### Parallel Programming
+Since September 2017, I have been working on various parallel programming projects in ECS 158 (Parallel Architectures) and EEC 289Q (GPU Programming). I've used C frameworks such and implemented projects such as:
+* reciprocal pair-matching on large data sets in OpenMP
+* optimized rollmean algorithm in OpenMP
+* optimized maximum burst algorithm in CUDA
+* Kronecker Product in CUDA
+
+
