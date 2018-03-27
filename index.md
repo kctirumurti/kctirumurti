@@ -4,7 +4,7 @@
 ### Computer Science Major
 
 ## Interests
-I'm an undergraduate at UC Davis interested in High performance computing, systems level programming, and computer security.
+I'm an undergraduate at UC Davis interested in high performance computing, systems level programming, and computer security.
 
 ## Work Experience
 
