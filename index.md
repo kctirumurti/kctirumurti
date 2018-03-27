@@ -42,4 +42,10 @@ Since September 2017, I have been working on various parallel programming projec
 * optimized maximum burst algorithm in CUDA
 * Kronecker Product in CUDA
 
+### Operating Systems
+In ECS 150 (Operating Systems), I worked on various system level programming projects in C:
+* a simple shell Bthat supports background processes, piping, multiple arguments, I/O redirection, & CRUD for directories
+* a user level thread library that allows the creation of new threads, provides a synchronization mechanism for threads to join other threads, and allows for interrupt-based preemptive scheduling
+* semaphores and thread memory region protection
+* a simple file system based on FAT, supporting up to 128 files in a single root directory
 
