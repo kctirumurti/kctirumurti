@@ -54,3 +54,7 @@ In ECS 160 (Software Engineering), I worked with a group of 10 other students to
 
 ### Research In Computer Security
 In ECS 235A (Research in Computer Security), I read and discussed many significant security specific research papers with my peers. Topics ranged from cryptography and systems security to machine learning based security. As a term project, I worked with two others on conducting research for mobile malware detection. We analyzed tradeoffs between static and dynamic analysis techniques for malware detection and proposed approaches for different scenarios.
+
+
+## General Relevant Coursework
+EEC 289Q (GPU Computing), ECS 158 (Parallel Architectures), ECS 150 (Operating Systems), Introduction to Deep Learning (Coursera), ECS 152A (Computer Networks), ECS 235A (Research in Computer Security), ECS 160 (Software Engineering), ECS 124 (Bioinformatics), ECS 122A (Algorithms), ECS 122B (Advanced Algorithms), ECS 140A (Programming Languages), ECS 154A (Computer Architecture), ECS 50 (Assembly Programming), ECS 60 (Data Structures), ECS 40 (Object Oriented Programming), ECS 30 (C Programming)
