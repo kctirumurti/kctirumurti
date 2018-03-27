@@ -52,3 +52,5 @@ In ECS 150 (Operating Systems), I worked on various system level programming pro
 ### Software Engineering
 In ECS 160 (Software Engineering), I worked with a group of 10 other students to port the linux based game Warcraft 2 to a native OSX application - involving extensive collaboration, code reviews, and deep understanding of the source code. We also learned the Swift programming language and had to map specific C++ protocols to it, leveraging native mac graphics libraries for animation.
 
+### Research In Computer Security
+In ECS 235A (Research in Computer Security), I read and discussed many significant security specific research papers with my peers. Topics ranged from cryptography and systems security to machine learning based security. As a term project, I worked with two others on conducting research for mobile malware detection. We analyzed tradeoffs between static and dynamic analysis techniques for malware detection and proposed approaches for different scenarios.
