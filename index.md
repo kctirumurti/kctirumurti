@@ -30,3 +30,5 @@ for web service features
 * Performed quality assurance on Tynker programming courses, drone, and
 device-integrated mobile products
 
+## Research
+I'm currently working with Dr. Sam King, exploring the part that cryptography and computer vision play in securing credit card transactions on mobile devices.
